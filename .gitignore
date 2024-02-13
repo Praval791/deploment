@@ -1,0 +1,36 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# dotenv environment variables file
+.env
+
+# IDE files
+.vscode
+.idea
+
+# logs
+*.log
+
+# runtime data such as db
+/data
+
+# yarn.lock file
+yarn.lock
+
+# npm debug log
+npm-debug.log*
+
+# production build files
+/build
+
+# local environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
